@@ -50,7 +50,7 @@ src/
 ## 📦 Getting Started
 
 ```bash
-git clone
+git clone https://github.com/karansuryawanshi/ShoppyGlobe-E-commerce
 
 cd shoppyglobe
 npm install
